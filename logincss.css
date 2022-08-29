@@ -1,0 +1,39 @@
+body{
+	background-color: #23282b; }
+
+#aso{
+	background-color: beige;
+	color: goldenrod;
+	border-radius: 50px;
+	padding: 12px;
+}
+#asoo{
+	background-color: beige;
+	color: goldenrod;
+	border-radius: 50px;
+	padding: 9px;
+}
+#assoo{
+	background-color: beige;
+	color: goldenrod;
+	border-radius: 50px;
+	padding: 6px;
+}
+#aassoo{
+	background-color: beige;
+	color: goldenrod;
+	border-radius: 50px;
+	padding: 3px;}
+
+Header{
+	background: #3d4242;
+	width: 100%;
+	border-radius: 40px; }
+
+button{
+	border-radius: 50px;
+	padding-right: 10px;
+	background-color: goldenrod;
+	color: black;
+
+}

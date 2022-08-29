@@ -1,0 +1,46 @@
+body{
+	background-color: #23282b; }
+
+Header{
+	background: #3d4242;
+	width: 100%;
+	border-radius: 40px; }
+img{
+	width: 300px;
+	border-radius: 50px; }
+button{
+	background-color: #52593b;
+	color: goldenrod;
+	border-radius: 50px;
+	
+}
+#aso{
+	background-color: beige;
+	color: goldenrod;
+	border-radius: 50px;
+	padding: 12px;
+}
+#asoo{
+	background-color: beige;
+	color: goldenrod;
+	border-radius: 50px;
+	padding: 9px;
+}
+#assoo{
+	background-color: beige;
+	color: goldenrod;
+	border-radius: 50px;
+	padding: 6px;
+}
+#aassoo{
+	background-color: beige;
+	color: goldenrod;
+	border-radius: 50px;
+	padding: 3px;}
+
+	ul{
+		color: goldenrod;
+		list-style: square;
+		font-family: sans-serif;
+	
+	}
